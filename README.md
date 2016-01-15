@@ -9,7 +9,7 @@ You call Compress('in your image') function then write your image variable in fu
 You will see the variable(*compressData) in your window
 
 //deCompress file
-You you will run this code in Matlab and save file in your path.
+You will run this code in Matlab and save file in your path.
 You call deCompress('compressed data ') function and write compressed image variable in your function.
 Example *deCompress(compressData)
 Finally samepic variable is your deCompressed image
