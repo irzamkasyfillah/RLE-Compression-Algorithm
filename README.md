@@ -1,4 +1,4 @@
-# LRE_Compression_Algorithm
+# RLE_Compression_Algorithm
 Matlab RLE Compressin Algorithm
 
 Matlab RLE implementation(Compress , deCompress) and calculate ratio.
